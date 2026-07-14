@@ -1,0 +1,9 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# OS junk
+Thumbs.db
+.DS_Store
